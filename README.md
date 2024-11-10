@@ -16,9 +16,6 @@ GUI of this project
 <img src="https://user-images.githubusercontent.com/91375598/223455277-c09d9cd4-f829-4ef0-90dc-6cbd2d166795.png"  width="600">
 
 
-Here’s the full README file for your project, formatted for GitHub, including all project details, setup instructions, usage guidelines, and the embedded demo video:
-
-```markdown
 # ICT2132 – Object Oriented Programming Practicum - Mini Project
 
 ### University of Ruhuna - Faculty of Technology
