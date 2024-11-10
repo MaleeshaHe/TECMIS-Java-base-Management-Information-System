@@ -119,8 +119,5 @@ Or click the image below to watch:
 ## License
 
 This project is for educational purposes under the course unit ICT2132 – Object Oriented Programming Practicum. It is not intended for commercial use.
-```
-
-This complete README includes all the project information, setup steps, and usage instructions along with the embedded video demo link and thumbnail. Adjust any details specific to your project repository or setup as needed. Let me know if there are additional elements you'd like to add!
 
 
